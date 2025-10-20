@@ -1,0 +1,5 @@
+{
+  "name": "AI Viral Clip Finder",
+  "description": "An AI-powered application that analyzes YouTube video links to automatically identify and generate potential viral short clips, complete with catchy titles, summaries, and captions.",
+  "requestFramePermissions": []
+}
